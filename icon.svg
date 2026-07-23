@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#15171a"/>
+  <rect width="512" height="512" rx="96" fill="none" stroke="#2e333a" stroke-width="2"/>
+  <!-- anvil -->
+  <g fill="#e8743b">
+    <path d="M150 210 h150 c40 0 60 0 80 -14 l8 36 c-22 16 -44 18 -76 18 h-40 v22 h70 l-20 60 h-150 l-20 -60 h70 v-22 h-92 z"/>
+  </g>
+  <rect x="196" y="356" width="120" height="26" rx="6" fill="#e8743b"/>
+  <text x="256" y="450" text-anchor="middle" font-family="Oswald, Arial Narrow, sans-serif" font-weight="700" font-size="64" letter-spacing="6" fill="#e9ecef">FORGE</text>
+</svg>
